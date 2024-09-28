@@ -5,7 +5,7 @@
 
 ## Technology Stack 💻
 * Programming Languages: Python, Java (Core Java, Java 8), C/C++, HTML/CSS/JavaScript, jQuery, Shell Scripting
-* Data Science & Machine Learning: Python (Pandas, NumPy), Data Science tools (in-progress knowledge from PGDM in AI & Data Science)
+* Data Science & Machine Learning: Python (Pandas, NumPy), Data Science tools
 * Frameworks & Libraries: Angular 8, Spring Boot, JDBC
 * Cloud & DevOps Tools: AWS (Certified Cloud Practitioner), CI/CD Automation (Jenkins, Docker), Selenium
 * Database: Oracle, MariaDB, MSSQL & PostgreSQL
