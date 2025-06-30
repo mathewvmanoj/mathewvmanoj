@@ -16,6 +16,7 @@
 * Email: mathew.manoj1995@gmail.com
 * [Stackoverflow](https://stackoverflow.com/users/7971318/mathew-v-manoj)
 * [HackerRank](https://www.hackerrank.com/profile/mathew_manoj1995)
+* [Credly](https://www.credly.com/users/mathew-v-manoj)
 <!--
 **mathewvmanoj/mathewvmanoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
